@@ -6,6 +6,23 @@ body {
     padding: 0;
 }
 
+#header {
+    /* margin: 400; */
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 30px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    text-align: left;
+    background: rgb(47, 172, 63);
+}
+
+#header #tagletras {
+    font-size: 20px;
+    font-weight: normal;
+    padding: 0 0 0 1em;
+}
+
 #contenedor {
     width: 70%;
     padding: 1em;
