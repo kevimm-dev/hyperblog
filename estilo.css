@@ -1,0 +1,18 @@
+body {
+    color: red;
+    text-align: center;
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor {
+    width: 70%;
+    padding: 1em;
+    border: 1px solid black;
+    margin: 0 auto
+}
+
+#contenedor h1 {
+    font-size: 20px
+}
